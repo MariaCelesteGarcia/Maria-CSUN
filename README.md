@@ -1,4 +1,4 @@
-<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
+<https://commons.wikimedia.org/wiki/File:Badianus.jpg#/media/File:Badianus.jpg>
 
 <param ve-config 
        title="Badianus Manuscript"
